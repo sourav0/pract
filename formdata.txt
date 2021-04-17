@@ -1,0 +1,3 @@
+Name    age gender  course  email
+abhi	22	Male	Python	asd@sdkf
+		Female	Select course	
